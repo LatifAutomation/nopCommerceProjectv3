@@ -1,0 +1,2 @@
+cd D:\SeleniumBatch30May2022\nopCommercev2
+mvn clean install
